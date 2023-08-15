@@ -1,0 +1,28 @@
+h1{
+    color: rgb(219, 123, 156);
+    text-align: center;
+    font-size: 35px;
+}
+
+h2{
+    color: rgb(186, 106, 226);
+    text-align: left;
+}
+h3{
+    color: rgb(144, 91, 194);
+    text-align: start;
+    font-size: 20px;
+    
+}
+h3{
+    font-style: oblique;
+    text-decoration: underline;
+    behavior: initial;
+    text-shadow:rgb(0, 0, 0);
+
+}
+h4{
+    color: rgb(116, 116, 217);
+    text-align: end;
+    font-style: oblique;
+}
